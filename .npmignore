@@ -1,0 +1,6 @@
+# Files to ignore when publishing to NPM
+src/
+scripts/
+test.js
+.gitignore
+.DS_Store
