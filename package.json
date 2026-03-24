@@ -1,6 +1,6 @@
 {
   "name": "@sachithrrra/ppp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate Purchasing Power Parity (PPP) adjusted fair prices in USD. Simple, lightweight, and dependency-free for clients.",
   "type": "module",
   "main": "index.js",
